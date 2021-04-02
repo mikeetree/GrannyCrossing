@@ -1,4 +1,4 @@
-# GrannySim
+# GrannyCrossing
  Early prototype for a VR game where you play a grandma using her walker to move across a street while avoiding cars.
  
  The player uses their VR controllers to hold on to a walker, mimicking real life movement to move in-game. The goal is to cross the street while avoiding traffic.
